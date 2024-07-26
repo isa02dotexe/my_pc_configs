@@ -15,7 +15,7 @@ DIRETORIO_OMZ="$HOME/.oh-my-zsh/plugins/"
 
 source ~/.zshrc;
 omz theme set jonathan 
-omz plugin enable 	aws 				\
+omz plugin enable 			aws 				\
 					vscode 				\
 					vagrant 			\
 					ubuntu 				\
@@ -54,7 +54,7 @@ else
 fi
 
     # # Abre um novo terminal e executa os comandos em sequência
-gnome-terminal -- zsh -c "neofetch; exec zsh"
+gnome-terminal -- zsh -c "neofetch; sudo reboot exec zsh"
 
 
 
