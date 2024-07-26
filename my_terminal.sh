@@ -12,10 +12,12 @@ USER_NAME=$(whoami)
 USER_HOME="/home/$USER_NAME"
 DIRETORIO_OMZ="/home/$(ls /home)/.oh-my-zsh/plugins/"
 
+sudo apt install curl
+
 echo "======================="
 echo "   INSTALANDO O GIT    "
 echo "======================="
-sudo apt-get install git-all -y
+sudo apt-get install git -y
 
 #Ubuntu 22.04.1
 #CONFIGURAÇÃO DO TERMINAL
@@ -47,13 +49,13 @@ ssh-add ~/.ssh/$NOME_CHAVE
 echo "========Chave RSA adicionada========="
 
 #INSTALANDO O SNAP
-sudo apt install snapd -y
+sudo apt install snapdspor
 
 #INSTALANDO O SPOTIFY
 echo "======================="
 echo "       SPOTIFY        "
 echo "======================="
-sudo snap install spotify -y
+sudo snap install spotify 
 spotify .
 
 #INSTALANDO O OBSIDIAN
@@ -61,7 +63,7 @@ sudo snap install obsidian --classic
 obsidian .
 
 #INSTALANDO O DISCORD
-sudo snap install discord -y
+sudo snap install discord 
 discord .
 
 #INSTALANDO O VSCODE
@@ -130,5 +132,5 @@ echo "
 echo "=========================="
 echo "  Instalando o OH MY ZSH  "
 echo "=========================="
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" -y
 
