@@ -3,7 +3,6 @@ Repo para guardar meus scripts que uso quando formato minha máquina.
 
 
 ## Paletas de cores do terminal 
-![[Pasted image 20240726142721.png]]
 
 #7A7AE2
 #FF5555
