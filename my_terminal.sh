@@ -8,7 +8,6 @@ if [ $? -ne 0 ]; then
     exit 1
 fi
 
-
 USER_NAME=$(whoami)
 USER_HOME="/home/$USER_NAME"
 DIRETORIO_OMZ="/home/$(ls /home)/.oh-my-zsh/plugins/"
