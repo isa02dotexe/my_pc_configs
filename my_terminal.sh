@@ -83,6 +83,7 @@ echo "=========================="
 sudo apt install zsh -y
 sudo chsh -s $(which zsh)    #zsh para ser o default
 
+sudo reboot 
 echo "========================="
 echo "   Bem-vinda Isabelle!   "
 echo "========================="
