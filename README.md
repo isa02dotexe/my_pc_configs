@@ -15,18 +15,10 @@ Repo para guardar em scripts meus programas que instalo assim que formato minha 
 
 fundo #282E30
 
-`#7A7AE2`
 
-
-The background color is `#17F6F6` for light mode and `#000000` for dark mode.
-
-
-
-
-
-
-
-
+```markdown
+The background color is `#17f6f6` for light mode and `#000000` for dark mode.
+```
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
