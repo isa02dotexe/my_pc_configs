@@ -41,16 +41,15 @@ fundo #282E30
 
 ### Programas que costumo instalar:
 
-
-![Spotify](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spotify_logo_with_text.svg/2560px-Spotify_logo_with_text.svg.png) 
+ 
 
 <p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=discord"></a>
+        <img src="https://skillicons.dev/icons?i=discord">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=obsidian"></a>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=vscode"></a>
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-spotify-3166423-2641594.png?f=webp" width=53/>
 </p>
 
 
