@@ -18,7 +18,7 @@ fundo #282E30
 `#7A7AE2`
 
 
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+The background color is `#17F6F6` for light mode and `#000000` for dark mode.
 
 
 
