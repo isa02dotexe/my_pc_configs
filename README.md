@@ -2,7 +2,7 @@
 Repo para guardar em scripts meus programas que instalo assim que formato minha máquina.
 
 
-## Paletas de cores do terminal 
+### Paletas de cores do terminal 
 
 #7A7AE2
 #FF5555
@@ -16,9 +16,6 @@ Repo para guardar em scripts meus programas que instalo assim que formato minha 
 fundo #282E30
 
 
-```markdown
-The background color is `#17f6f6` for light mode and `#000000` for dark mode.
-```
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
@@ -38,15 +35,12 @@ The background color is `#17f6f6` for light mode and `#000000` for dark mode.
 
 ### Programas que costumo instalar:
 
- 
-
 <p align="center">
-        <img src="https://skillicons.dev/icons?i=discord">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=obsidian"></a>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode"></a>
-        <img src="https://cdn.iconscout.com/icon/free/png-256/free-spotify-3166423-2641594.png?f=webp" width=53/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,discord,obsidian,vscode" />
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-spotify-3166423-2641594.png?f=webp" width=53/>
+  </a>
 </p>
 
-
+![OMZ](https://ohmyzsh.s3.amazonaws.com/omz-ansi-github.png)
+![neofetch](https://i.imgur.com/ZQI2EYz.png)
