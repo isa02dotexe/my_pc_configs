@@ -43,7 +43,14 @@ fundo #282E30
 
 
 ![Spotify](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spotify_logo_with_text.svg/2560px-Spotify_logo_with_text.svg.png) 
-![Obsidian](https://obsidian.md/images/2023-06-logo.png)
-![Discord](https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png )
+
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=discord"></a>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=obsidian"></a>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode"></a>
+</p>
 
 
