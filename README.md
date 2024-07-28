@@ -17,9 +17,9 @@ fundo #282E30
 
 `#7A7AE2`
 
-```markdown
+
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
-```
+
 
 
 
