@@ -15,11 +15,7 @@ Repo para guardar em scripts meus programas que instalo assim que formato minha 
 
 fundo #282E30
 
-Este é um {c:#7A7AE2}texto colorido com hexadecimal{/c} 
-
-Este é um {c:#FF5555}texto colorido com hexadecimal{/c} 
-
-Este é um {c:#00AA00}texto colorido com hexadecimal{/c} 
+<font color=\"red\">Texto com cor vermelha</font>
 
 
 > [!NOTE]
