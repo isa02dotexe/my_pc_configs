@@ -15,7 +15,7 @@ Repo para guardar em scripts meus programas que instalo assim que formato minha 
 
 fundo #282E30
 
-<font color=\"red\">Texto com cor vermelha</font>
+```#FFD700```
 
 
 > [!NOTE]
