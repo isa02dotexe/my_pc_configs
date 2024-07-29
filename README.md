@@ -23,7 +23,7 @@ Repo para guardar em scripts meus programas que instalo assim que formato minha 
   </a>
 </p>
 
-
+<!-- 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
@@ -37,4 +37,4 @@ Repo para guardar em scripts meus programas que instalo assim que formato minha 
 > Urgent info that needs immediate user attention to avoid problems.
 
 > [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+> Advises about risks or negative outcomes of certain actions. -->
