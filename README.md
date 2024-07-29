@@ -23,6 +23,3 @@ Repo para guardar em scripts meus programas que instalo assim que formato minha 
   </a>
 </p>
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
