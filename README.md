@@ -15,6 +15,11 @@ Repo para guardar em scripts meus programas que instalo assim que formato minha 
 
 fundo #282E30
 
+Este é um {c:#7A7AE2}texto colorido com hexadecimal{/c} 
+
+Este é um {c:#FF5555}texto colorido com hexadecimal{/c} 
+
+Este é um {c:#00AA00}texto colorido com hexadecimal{/c} 
 
 
 > [!NOTE]
@@ -36,11 +41,13 @@ fundo #282E30
 ### Programas que costumo instalar:
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=git,discord,obsidian,vscode" />
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-spotify-3166423-2641594.png?f=webp" width=53/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-spotify-3166423-2641594.png?f=webp" width=52/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Vivaldi_web_browser_logo.svg/1200px-Vivaldi_web_browser_logo.svg.png" alt="drawing" width="52"/>
+    <img src="https://ohmyzsh.s3.amazonaws.com/omz-ansi-github.png" width="80"/>
+    <img src="https://i.imgur.com/ZQI2EYz.png" width="170"/>
   </a>
 </p>
 
-![OMZ](https://ohmyzsh.s3.amazonaws.com/omz-ansi-github.png)
-![neofetch](https://i.imgur.com/ZQI2EYz.png)
+
