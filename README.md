@@ -4,8 +4,8 @@ Repo para guardar em scripts meus programas que instalo assim que formato minha 
 
 ## Paletas de cores do terminal 
 
-![paleta de cores](terminal.png)
-![terminal](meu-terminal.png)
+![paleta de cores](images/terminal.png)
+![terminal](images/meu-terminal.png)
 
 > [!NOTE]
 > Fiz a paleta no [Imagecolocarpicker](https://imagecolorpicker.com/)
